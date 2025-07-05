@@ -1,0 +1,28 @@
+img{
+    float: left;
+    margin: 10px;
+    width: 100px;
+}
+
+p{
+    padding: 10px;
+}
+
+.cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.cont div{
+    width: 700px;
+    display: block;
+    border: 1px solid gray;
+}
+
+.wrap{
+    display: flex;
+
+}
+
+.wrap .cont{width: 500px;}
